@@ -1,30 +1,21 @@
-# This is a large heading
+# George Antoniou
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of Larisa, in the state of Thessaly, in Greece.
 
-- This is
-- an unordered
-- list
+### Free Time
 
-1. This is
-2. an ordered
-3. list
+- I love mathematics when i solve these 
+- I like running to the hills when i have the oportunity 
+- I also like to ride my bicycle in the city of Larissa
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+My favourite food is my own sandwich with salmon, tomato, onion and potatoes 
+I also prefer all the cocktails with no alcohol and all the greek summer foods
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
+The best way to get in touch with me is [on Facebook](https://www.facebook.com/george.antoniou.52493/).
 nano README.md
